@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+main{
+   background: linear-gradient(
+    135deg,
+    #f5f8ff 0%,
+    #e9f0ff 50%,
+    #dde8ff 100%
+  );
+}
+
+form{
+   box-shadow: 0 24px 48px rgba(0, 0, 0, 0.08);
+}
